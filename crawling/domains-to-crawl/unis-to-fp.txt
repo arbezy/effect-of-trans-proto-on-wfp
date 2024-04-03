@@ -1,0 +1,100 @@
+1. University of Oxford
+2. University of Cambridge
+3. Stanford University
+4. Massachusetts Institute of Technology
+5. California Institute of Technology
+6. Harvard University
+7. Princeton University
+8. Yale University
+9. Imperial College London
+10. The University of Chicago
+11. ETH Zurich
+12. Johns Hopkins University
+13. University of Pennsylvania
+14. UCL
+15. University of California, Berkeley
+16. Columbia University
+17. University of California, Los Angeles
+18. Duke University
+19. Cornell University
+20. University of Michigan-Ann Arbor
+21. University of Toronto
+22. Tsinghua University
+23. National University of Singapore
+24. Carnegie Mellon University
+25. Northwestern University
+26. London School of Economics and Political Science
+27. New York University
+28. University of Washington
+29. University of Edinburgh
+30. University of California, San Diego
+31. Peking University
+32. LMU Munich
+33. University of Melbourne
+34. Georgia Institute of Technology
+35. École Polytechnique Fédérale de Lausanne
+36. University of Hong Kong
+37. University of British Columbia
+38. King’s College London
+39. University of Texas at Austin
+40. Karolinska Institute
+41. The Hong Kong University of Science and Technology
+42. Paris Sciences et Lettres – PSL Research University Paris
+43. The University of Tokyo
+44. University of Wisconsin-Madison
+45. McGill University
+46. Technical University of Munich
+47. Universität Heidelberg
+48. KU Leuven
+49. Australian National University
+50. University of Illinois at Urbana-Champaign
+51. Nanyang Technological University, Singapore
+52. University of California, Santa Barbara
+53. Brown University
+54. Chinese University of Hong Kong
+55. Washington University in St Louis
+56. University of North Carolina at Chapel Hill
+57. University of Manchester
+58. Delft University of Technology
+59. University of California, Davis
+60. The University of Sydney
+61. Wageningen University & Research
+62. University of Amsterdam
+63. Seoul National University
+64. Purdue University West Lafayette
+65. Kyoto University
+66. University of Southern California
+67. Humboldt University of Berlin
+68. Leiden University
+69. The University of Queensland
+70. Erasmus University Rotterdam
+71. University of Minnesota
+72. Ohio State University (Main campus)
+73. Sorbonne University
+74. Boston University
+75. Utrecht University
+76. University of Freiburg
+77. McMaster University
+78. University of Bristol
+79. University of Groningen
+80. University of Warwick
+81. Penn State (Main campus)
+82. University of Maryland, College Park
+83. Sungkyunkwan University (SKKU)
+84. Emory University
+85. Monash University
+86. Rice University
+87. RWTH Aachen University
+88. Uppsala University
+89. University of Tübingen
+90. Charité - Universitätsmedizin Berlin
+91. Université de Montréal
+92. University of Zurich
+93. University of Science and Technology of China
+94. University of Glasgow
+95. Michigan State University
+96. University of California, Irvine
+97. UNSW Sydney
+98. Lund University
+99. Dartmouth College
+100. University of Helsinki

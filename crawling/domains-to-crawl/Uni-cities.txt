@@ -1,0 +1,221 @@
+University of Oxford
+United Kingdom
+University of Cambridge
+United Kingdom
+Stanford University
+United States
+Massachusetts Institute of Technology
+United States
+California Institute of Technology
+United States
+Harvard University
+United States
+Princeton University
+United States
+Yale University
+United States
+Imperial College London
+United Kingdom
+The University of Chicago
+United States
+ETH Zurich
+Switzerland
+Johns Hopkins University
+United States
+University of Pennsylvania
+United States
+UCL
+United Kingdom
+University of California, Berkeley
+United States
+Columbia University
+United States
+University of California, Los Angeles
+United States
+Duke University
+United States
+Cornell University
+United States
+University of Michigan-Ann Arbor
+United States
+University of Toronto
+Canada
+Tsinghua University
+China
+National University of Singapore
+Singapore
+17.4
+Carnegie Mellon University
+United States
+Northwestern University
+United States
+London School of Economics and Political Science
+United Kingdom
+New York University
+United States
+University of Washington
+United States
+University of Edinburgh
+United Kingdom
+University of California, San Diego
+United States
+Peking University
+China
+LMU Munich
+Germany
+36
+University of Melbourne
+Australia
+Georgia Institute of Technology
+United States
+École Polytechnique Fédérale de Lausanne
+Switzerland
+University of Hong Kong
+Hong Kong
+18.1
+University of British Columbia
+Canada
+King’s College London
+United Kingdom
+University of Texas at Austin
+United States
+Karolinska Institute
+Sweden
+The Hong Kong University of Science and Technology
+Hong Kong
+23.6
+Paris Sciences et Lettres – PSL Research University Paris
+France
+The University of Tokyo
+Japan
+University of Wisconsin-Madison
+United States
+McGill University
+Canada
+13
+Technical University of Munich
+Germany
+50.6
+Universität Heidelberg
+Germany
+16.6
+KU Leuven
+Belgium
+36.5
+Australian National University
+Australia
+University of Illinois at Urbana-Champaign
+United States
+Nanyang Technological University, Singapore
+Singapore
+University of California, Santa Barbara
+United States
+Brown University
+United States
+Chinese University of Hong Kong
+Hong Kong
+18.4
+Washington University in St Louis
+United States
+University of North Carolina at Chapel Hill
+United States
+University of Manchester
+United Kingdom
+14.5
+Delft University of Technology
+Netherlands
+University of California, Davis
+United States
+The University of Sydney
+Australia
+Wageningen University & Research
+Netherlands
+University of Amsterdam
+Netherlands
+Seoul National University
+South Korea
+Purdue University West Lafayette
+United States
+Kyoto University
+Japan
+University of Southern California
+United States
+Humboldt University of Berlin
+Germany
+Leiden University
+Netherlands
+18
+The University of Queensland
+Australia
+34.4
+Erasmus University Rotterdam
+Netherlands
+19.6
+University of Minnesota
+United States
+Ohio State University (Main campus)
+United States
+Sorbonne University
+France
+Boston University
+United States
+Utrecht University
+Netherlands
+University of Freiburg
+Germany
+McMaster University
+Canada
+27.3
+University of Bristol
+United Kingdom
+13.2
+University of Groningen
+Netherlands
+23.8
+University of Warwick
+United Kingdom
+13.3
+Penn State (Main campus)
+United States
+University of Maryland, College Park
+United States
+Sungkyunkwan University (SKKU)
+South Korea
+Emory University
+United States
+Monash University
+Australia
+Rice University
+United States
+RWTH Aachen University
+Germany
+Uppsala University
+Sweden
+University of Tübingen
+Germany
+Charité - Universitätsmedizin Berlin
+Germany
+Université de Montréal
+Canada
+20.3
+University of Zurich
+Switzerland
+University of Science and Technology of China
+China
+8.4
+University of Glasgow
+United Kingdom
+15.3
+Michigan State University
+United States
+University of California, Irvine
+United States
+UNSW Sydney
+Australia
+30.5
+Lund University
+Sweden
+Dartmouth College
+United States
+University of Helsinki
+Finland

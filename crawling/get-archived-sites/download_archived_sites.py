@@ -7,6 +7,7 @@ from time import sleep
 # TODO: remove uses of first_line (deprecated)
 # TODO: complete archived_site.txt with all websites
 
+# open list of archived sites to copy, using the wayback machine url and the domain name
 with open('C:/Users/andre/Uni_Documents/Dissertation/archived_websites/archived_sites.txt') as fp:
     first_line = True
     i=0
@@ -39,6 +40,7 @@ with open('C:/Users/andre/Uni_Documents/Dissertation/archived_websites/archived_
         first_line = False
         i+=1
 
+# create an index file for the downloaded sites
 sleep(1)
 os.system("bash -c cd results")
 sleep(2)

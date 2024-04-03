@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # DOESNT WORK - USE THE PYTHON SCRIPT INSTEAD KING
+# the reason it doesn't work is that spaces are included in the httrack cmd, and I don't know enough shell to stop it!
 
 while read aurl; do
     echo "${aurl}"
