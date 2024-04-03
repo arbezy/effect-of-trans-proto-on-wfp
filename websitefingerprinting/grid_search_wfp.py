@@ -22,12 +22,6 @@ import datetime
 def main():
     classifiers = [ExtraTreesClassifier(), RandomForestClassifier(), KNeighborsClassifier(), GaussianNB(), SVC()]
     clf_strs = ["extra_trees", "rand_forest", "KNN", "GaussianNB", "SVC"]
-    
-    # ~~~temp!!!!~~~
-    classifiers = classifiers[:2]
-    clf_strs = clf_strs[:2]
-    # ~~~~~~~~~~~~~~
-    
     grids = []
     max_depth_arr = [int(x) for x in np.linspace(10, 110, num=11)]
     max_depth_arr.append(None)
@@ -66,8 +60,7 @@ def main():
     grids.append(nb_grid)
     grids.append(svc_grid)
     
-    # ["h2", "h3"]
-    for h_version in ["h2"]: 
+    for h_version in ["h2", "h3"]: 
         for c_i in range(len(classifiers)):
             print(f"HTTPVERSION={h_version}, CLASSIFIER={clf_strs[c_i]}")
             print(f"datetime={datetime.datetime.now()}")
@@ -89,7 +82,7 @@ def main():
             # print(f"best transfer params for {clf_strs[c_i]}: {gs_cv.best_params_}\n")
 
 def get_transfer_wfp_data(h_version: str):
-    df = pd.read_csv(f"D:/traffic-features/" + h_version + "_traffic_features_200.csv")
+    df = pd.read_csv(f"D:/traffic-features/" + h_version + "_traffic_features_40.csv")
     df = df.sort_values(['0'])
 
     domains = df['0'].unique()
@@ -104,7 +97,7 @@ def get_transfer_wfp_data(h_version: str):
     return labels, streams
 
 def get_simple_wfp_data(h_version: str):
-    df = pd.read_csv(f"D:/traffic-features/" + h_version + "_traffic_features_200.csv")
+    df = pd.read_csv(f"D:/traffic-features/" + h_version + "_traffic_features_40.csv")
     df = df.sort_values(['0'])
 
     domains = df['0'].unique()
