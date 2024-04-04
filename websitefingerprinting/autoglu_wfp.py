@@ -10,22 +10,22 @@ def main():
         labels, streams = get_simple_wfp_data(h_vers, 200)
         streams.insert(0, 'domain', labels)
 
-        train_stream, test_stream = train_test_split(streams, test_size=0.3, random_state=42)
+        #train_stream, test_stream = train_test_split(streams, test_size=0.3, random_state=42)
 
-        tab_data = TabularDataset(train_stream)
+        tab_data = TabularDataset(streams)
         predictor = TabularPredictor(label='domain').fit(tab_data)
 
         print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
         print(h_vers)
-        predictor.leaderboard(test_stream)
-        print('\n')
-        y_test = test_stream['domain']
-        y_pred = predictor.predict(test_stream)
-        predictor.evaluate_predictions(y_true=y_test, y_pred=y_pred, auxiliary_metrics=True)
+        # predictor.leaderboard(test_stream)
+        # print('\n')
+        # y_test = test_stream['domain']
+        # y_pred = predictor.predict(test_stream)
+        # predictor.evaluate_predictions(y_true=y_test, y_pred=y_pred, auxiliary_metrics=True)
         print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
 def get_simple_wfp_data(h_version:str, k:int):
-    df = pd.read_csv("D:/traffic-features/" + h_version + "_traffic_features_" + str(k) + ".csv")
+    df = pd.read_csv("G:/traffic_features_wo_handshake/" + h_version + "_traffic_features_" + str(k) + ".csv")
     #df = df.sort_values['0']
 
     domains = df['0'].unique()
